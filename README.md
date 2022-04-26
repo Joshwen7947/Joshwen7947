@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh Wenner (@Joshwen7947)
+- 👋 Hi, I’m Josh (@Joshwen7947) orignally from the US, now full time in Vietnam
 - 👀 I’m interested in Climbing, Traveling and all around adventure
 - 🚀 I know Python & React amongst other stuff
 - 🌱 I’m currently learning more Python
