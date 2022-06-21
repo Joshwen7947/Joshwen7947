@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Josh (@Joshwen7947) orignally from the US, now full time in Vietnam
-- 👀 I’m interested in Climbing, Traveling and all around adventure
-- 🚀 I know Python & React amongst other stuff
-- 🌱 I’m currently learning more Python
+- 👋 Hi, I’m Josh (@Joshwen7947) orignally from the US, now full time dev in Vietnam
+- 👀 I’m interested in good food, good people and all around adventure
+- 🚀 I know Java{Script} & React amongst other stuff
+- 🌱 Currently full time with Python
 - 💞️ I’m looking to collaborate on Freelance projects
 - 📫 How to reach me joshjwenner@gmail.com
 
