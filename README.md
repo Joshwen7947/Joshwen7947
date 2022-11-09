@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Josh (@Joshwen7947) orignally from the US, now full time dev in Vietnam
+- 👋 Hi there, I’m Josh, orignally from the US, now full-time dev in Vietnam
 - 👀 I’m interested in good food, good people and all around adventure
 - 🚀 I know Java{Script} & React amongst other stuff
-- 🌱 Currently full time with Python
-- 💞️ I’m looking to collaborate on Freelance projects
+- 🌱 Currently full time with Python and dabbling with Solidity
+- 🕵️‍♂️ Looking for freelance and/or full-time work oppurtunities
 - 📫 How to reach me joshjwenner@gmail.com
 
 <!---
